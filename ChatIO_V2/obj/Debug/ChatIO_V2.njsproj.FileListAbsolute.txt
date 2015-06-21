@@ -1,0 +1,4 @@
+F:\CodeDev\Node JS\ChatIO-master\ExpressApp1\obj\Debug\ChatIO_V2.njsprojResolveAssemblyReference.cache
+F:\CodeDev\Node JS\ChatIO-master\ExpressApp1\bin\Microsoft.NodejsTools.WebRole.dll
+F:\CodeDev\Node JS\ChatIO_V2\ExpressApp1\obj\Debug\ChatIO_V2.njsprojResolveAssemblyReference.cache
+F:\CodeDev\Node JS\ChatIO_V2\ExpressApp1\bin\Microsoft.NodejsTools.WebRole.dll
